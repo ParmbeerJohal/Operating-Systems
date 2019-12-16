@@ -1,6 +1,6 @@
 # Operating Systems
 
 Worked on multiple programs dealing with:
-	- Creating and using a simple shell interpreter
-	- Multi-thread scheduling simulation
-	- Creating and using a simple file system
+	1. Creating and using a simple shell interpreter
+	2. Multi-thread scheduling simulation
+	3. Creating and using a simple file system
